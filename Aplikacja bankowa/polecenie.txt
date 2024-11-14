@@ -1,0 +1,23 @@
+Interfejs IKontoBankowe:
+
+Zdefiniuj interfejs IKontoBankowe, który bêdzie zawiera³ nastêpuj¹ce metody i w³aœciwoœci:
+	void Wplac(decimal ilosc): Metoda dodaj¹ca kwotê do salda.
+	bool Wyplac(decimal ilosc): Metoda odejmuj¹ca kwotê od salda, jeœli œrodki s¹ wystarczaj¹ce, i zwracaj¹ca true. W przeciwnym razie metoda wyœwietla komunikat o braku œrodków i zwraca false.
+	decimal Saldo { get; }: W³aœciwoœæ, która umo¿liwia odczyt bie¿¹cego salda konta.
+	bool PrzetransferujDo(IKontoBankowe cel, decimal ilosc): Metoda umo¿liwiaj¹ca przelanie œrodków na inne konto (typ IKontoBankowe). Powinna najpierw sprawdzaæ dostêpnoœæ œrodków.
+
+
+Implementacja kont bankowych:
+Utwórz klasy KontoOszczednosciowe i KontoFirmowe, które implementuj¹ interfejs IKontoBankowe.
+	KontoOszczednosciowe: Ma dodatkow¹ op³atê w wysokoœci 5 PLN za ka¿d¹ wyp³atê œrodków. Zaakceptowana wyp³ata powinna uwzglêdniaæ tê op³atê (tzn. zmniejszyæ saldo o 5 PLN, gdy wyp³ata jest mo¿liwa).
+	KontoFirmowe: Ma limit miesiêcznych transakcji do 10 operacji. Jeœli zostanie przekroczony, dalsze transakcje s¹ zablokowane do koñca miesi¹ca.
+
+Klasa Program (klasa g³ówna):
+	Utwórz w niej instancje kont: KontoOszczednosciowe oraz KontoFirmowe.
+	Na pocz¹tku ustaw saldo ka¿dego konta na wybran¹ przez u¿ytkownika kwotê.
+	Zapytaj u¿ytkownika o kwotê przelewu i wykonaj transfer œrodków pomiêdzy kontami.
+	Po ka¿dej operacji wyœwietl saldo ka¿dego z kont.
+
+Warunki do sprawdzenia w zadaniu:
+	Przelew œrodków pomiêdzy kontami powinien uwzglêdniaæ op³aty i limity. Jeœli przelew nie jest mo¿liwy, wyœwietl odpowiedni komunikat.
+	Upewnij siê, ¿e saldo konta nie mo¿e byæ ujemne.

@@ -1,0 +1,14 @@
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.exe.config
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.exe
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.pdb
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.exe
+C:\Users\Mateusz\Desktop\sprawdzian 15.11 powtórka\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.pdb
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.exe.config
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.exe
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\bin\Debug\Aplikacja bankowa.pdb
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.csproj.AssemblyReference.cache
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.csproj.CoreCompileInputs.cache
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.exe
+C:\Users\Mateusz\Desktop\Aplikacja bankowa\Aplikacja bankowa\obj\Debug\Aplikacja bankowa.pdb
